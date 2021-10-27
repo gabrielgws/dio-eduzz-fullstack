@@ -30,5 +30,8 @@ Reforce seu conhecimento em Git com um desafio de projeto totalmente prático, o
 ### - ✅ Mentoria 02: Carreira Eduzz: cultura e governança:
 Conheça tudo sobre a Eduzz e como a sua jornada e essa empresa estão altamente conectadas.
 
-### - ▪️▪️▪️ Introdução a criação de websites com HTML5 e CSS3:
+### - ✅ Introdução a criação de websites com HTML5 e CSS3:
 Nesse curso o especialista vai contar um pouco sobre a história do HTML5 e do CSS3, explicar como funciona a estrutura básica dessas tecnologias, sua semântica, principais elementos e comandos.
+
+### - ▪️▪️▪️ JavaScript ES6 essencial:
+Nesse curso você vai conhecer a extensão ES6, do JavaScript, que foi criada com o objetivo de resolver problemas antigos da linguagem, facilitar a construção de aplicações, entre outros benefícios.
