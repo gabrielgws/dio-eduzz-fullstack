@@ -33,5 +33,11 @@ Conheça tudo sobre a Eduzz e como a sua jornada e essa empresa estão altamente
 ### - ✅ Introdução a criação de websites com HTML5 e CSS3:
 Nesse curso o especialista vai contar um pouco sobre a história do HTML5 e do CSS3, explicar como funciona a estrutura básica dessas tecnologias, sua semântica, principais elementos e comandos.
 
-### - ▪️▪️▪️ JavaScript ES6 essencial:
+### - ✅ JavaScript ES6 essencial:
 Nesse curso você vai conhecer a extensão ES6, do JavaScript, que foi criada com o objetivo de resolver problemas antigos da linguagem, facilitar a construção de aplicações, entre outros benefícios.
+
+### - ▪️▪️▪️ Desenvolvimento avançado com JavaScript ES6:
+Aprenda a trabalhar com a mais nova atualização da linguagem JavaScript, a ES6, desde seus fundamentos até as funções avançadas e novos conceitos aplicados.
+
+### - ▪️▪️▪️ Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces:
+Explore na prática o TypeScript, uma das linguagens de frontend mais robustas e recomendadas na atualidade. Para isso, o expert apresenta uma série de exemplos práticos que abordam as principais estruturas da linguagem: Classes, Tipos e Interfaces.
