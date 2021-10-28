@@ -1,4 +1,4 @@
-# 🚀 DIO - Eduzz Fullstack 🚀
+# 🚀 DIO - Eduzz Fullstack 🚀 *( 📌 Intermediário | 💻 41 atividades | ⌚ 95 hrs. )*
 
 ## Bootcamp na Digital Innovation One: *Iremos aprender sobre os principais elementos da Stack de javascript, uma das stacks mais utilizadas no mercado, conectando-se com grandes experts da área.*
 
@@ -36,8 +36,11 @@ Nesse curso o especialista vai contar um pouco sobre a história do HTML5 e do C
 ### - ✅ JavaScript ES6 essencial:
 Nesse curso você vai conhecer a extensão ES6, do JavaScript, que foi criada com o objetivo de resolver problemas antigos da linguagem, facilitar a construção de aplicações, entre outros benefícios.
 
-### - ▪️▪️▪️ Desenvolvimento avançado com JavaScript ES6:
+### - ✅ Desenvolvimento avançado com JavaScript ES6:
 Aprenda a trabalhar com a mais nova atualização da linguagem JavaScript, a ES6, desde seus fundamentos até as funções avançadas e novos conceitos aplicados.
 
 ### - ▪️▪️▪️ Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces:
 Explore na prática o TypeScript, uma das linguagens de frontend mais robustas e recomendadas na atualidade. Para isso, o expert apresenta uma série de exemplos práticos que abordam as principais estruturas da linguagem: Classes, Tipos e Interfaces.
+
+### - ▪️▪️▪️ Resolvendo Desafios de Código em Javascript:
+Antes de seguir para os Desafios de Código, entenda melhor o que são eles, qual a importância, como solucioná-los na plataforma e alguns conceitos básicos que envolvem a codificação.
