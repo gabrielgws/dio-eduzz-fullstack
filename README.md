@@ -54,3 +54,72 @@ Nesse projeto, o desafio será criar um jogo Gênesis utilizando apenas HTML, CS
 
 ### - ▪️▪️▪️ Mentoria 03: Projeto Eduzz: Explicando o projeto Eduzz e prototipando a aplicação:
 Aprenda as melhores práticas na hora de criar o prototipo da sua aplicação.
+
+### - ▪️▪️▪️ Introdução ao ReactJS:
+Aprenda os conceitos sobre ReactJS, ferramenta usada para a criação de interfaces para os usuários.
+
+### - ▪️▪️▪️ Trabalhando com Componentes em React:
+Aprenda sobre a estrutura e ciclo de vida dos componentes React, uma das principais tecnologias de desenvolvimento Web da atualidade. Nesse contexto, a expert explora conceitos chave como o de Single Page Application (SPA), modularização e, principalmente, boas práticas relacionadas a componentes React.
+
+### - ▪️▪️▪️ Desenvolvimento de aplicações para internet com ReactJS:
+Você aprenderá conceitos avançados sobre a combinação de Redux com React e sua aplicação.
+
+### - ▪️▪️▪️ Práticas avançadas em projetos com ReactJS:
+Conclua o seu conhecimento de React JS com técnicas avançadas para desenvolver e otimizar o tempo dos projetos. Seja um desenvolvedor front-end de alta performance!
+
+### - ▪️▪️▪️ Introdução aos React Hooks:
+Organize sua lógica de componentes React com Hooks. Para isso, entenda esse conceito na prática e veja como ele pode ajudá-lo no reuso de suas implementações. Os Hooks nos permitem trabalhar de forma limpa e simples no React, nos dando ainda mais controle.
+
+### - ▪️▪️▪️ Criando aplicações móveis multiplataforma com React Native:
+Aprenda React Native da introdução ao desenvolvimento de seu próprio projeto mobile híbrido final, e acelere mais a sua carreira de desenvolvedor front-end.
+
+### - ▪️▪️▪️ Desafios Básicos em JavaScript:
+Nesse desafio de codificação você irá praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas e exercícios anteriores.
+
+### - ▪️▪️▪️ Criando um front-end totalmente componentizado na prática com ReactJS:
+Agora é a sua hora! Crie uma solução com React que explore os conceitos apresentados nesse Desafio de Projetos. Para isso, você pode reproduzir o aplicação criada pelo expert ou, caso se sinta preparado, desenvolver algo do zero. Dica: você pode dar um "fork" no repositório disponibilizado pelo expert para organizar melhor as suas alterações e evoluções, mantendo uma referência direta ao código original.
+
+### - ▪️▪️▪️ Mentoria 03: Projeto Eduzz: Explicando o projeto Eduzz e prototipando a aplicação:
+Aprenda as melhores práticas na hora de criar o prototipo da sua aplicação.
+
+### - ▪️▪️▪️ Mentoria 03: Projeto Eduzz: Explicando o projeto Eduzz e prototipando a aplicação:
+Aprenda as melhores práticas na hora de criar o prototipo da sua aplicação.
+
+### - ▪️▪️▪️ Mentoria 03: Projeto Eduzz: Explicando o projeto Eduzz e prototipando a aplicação:
+Aprenda as melhores práticas na hora de criar o prototipo da sua aplicação.
+
+### - ▪️▪️▪️ Mentoria 03: Projeto Eduzz: Explicando o projeto Eduzz e prototipando a aplicação:
+Aprenda as melhores práticas na hora de criar o prototipo da sua aplicação.
+
+### - ▪️▪️▪️ Mentoria 03: Projeto Eduzz: Explicando o projeto Eduzz e prototipando a aplicação:
+Aprenda as melhores práticas na hora de criar o prototipo da sua aplicação.
+
+### - ▪️▪️▪️ Mentoria 03: Projeto Eduzz: Explicando o projeto Eduzz e prototipando a aplicação:
+Aprenda as melhores práticas na hora de criar o prototipo da sua aplicação.
+
+### - ▪️▪️▪️ Mentoria 03: Projeto Eduzz: Explicando o projeto Eduzz e prototipando a aplicação:
+Aprenda as melhores práticas na hora de criar o prototipo da sua aplicação.
+
+### - ▪️▪️▪️ Mentoria 03: Projeto Eduzz: Explicando o projeto Eduzz e prototipando a aplicação:
+Aprenda as melhores práticas na hora de criar o prototipo da sua aplicação.
+
+### - ▪️▪️▪️ Mentoria 03: Projeto Eduzz: Explicando o projeto Eduzz e prototipando a aplicação:
+Aprenda as melhores práticas na hora de criar o prototipo da sua aplicação.
+
+### - ▪️▪️▪️ Mentoria 03: Projeto Eduzz: Explicando o projeto Eduzz e prototipando a aplicação:
+Aprenda as melhores práticas na hora de criar o prototipo da sua aplicação.
+
+### - ▪️▪️▪️ Mentoria 03: Projeto Eduzz: Explicando o projeto Eduzz e prototipando a aplicação:
+Aprenda as melhores práticas na hora de criar o prototipo da sua aplicação.
+
+### - ▪️▪️▪️ Mentoria 03: Projeto Eduzz: Explicando o projeto Eduzz e prototipando a aplicação:
+Aprenda as melhores práticas na hora de criar o prototipo da sua aplicação.
+
+### - ▪️▪️▪️ Mentoria 03: Projeto Eduzz: Explicando o projeto Eduzz e prototipando a aplicação:
+Aprenda as melhores práticas na hora de criar o prototipo da sua aplicação.
+
+### - ▪️▪️▪️ Mentoria 03: Projeto Eduzz: Explicando o projeto Eduzz e prototipando a aplicação:
+Aprenda as melhores práticas na hora de criar o prototipo da sua aplicação.
+
+### - ▪️▪️▪️ Mentoria 03: Projeto Eduzz: Explicando o projeto Eduzz e prototipando a aplicação:
+Aprenda as melhores práticas na hora de criar o prototipo da sua aplicação.
