@@ -43,10 +43,10 @@ Aprenda a trabalhar com a mais nova atualização da linguagem JavaScript, a ES6
 ### - ✅ Introdução ao TypeScript: Explorando Classes, Tipos e Interfaces:
 Explore na prática o TypeScript, uma das linguagens de frontend mais robustas e recomendadas na atualidade. Para isso, o expert apresenta uma série de exemplos práticos que abordam as principais estruturas da linguagem: Classes, Tipos e Interfaces.
 
-### - ▪️▪️▪️ Resolvendo Desafios de Código em Javascript:
+### - ✅ Resolvendo Desafios de Código em Javascript:
 Antes de seguir para os Desafios de Código, entenda melhor o que são eles, qual a importância, como solucioná-los na plataforma e alguns conceitos básicos que envolvem a codificação.
 
-### - ▪️▪️▪️ Desafios iniciais em JavaScript:
+### - ✅ Desafios iniciais em JavaScript:
 Nesse desafio de codificação você irá praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional com JavaScript.
 
 ### - ▪️▪️▪️ Criando seu jogo de memória estilo Genius:
