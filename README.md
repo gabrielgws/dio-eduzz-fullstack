@@ -52,7 +52,7 @@ Nesse desafio de codificação você irá praticar através do desenvolvimento d
 ### - ✅ Criando seu jogo de memória estilo Genius:
 Nesse projeto, o desafio será criar um jogo Gênesis utilizando apenas HTML, CSS e Javascript de forma introdutória, sendo o principal conceito, CSS Grid, manipulação de Array e Arrow Functions.
 
-### - ▪️▪️▪️ Mentoria 03: Projeto Eduzz: Explicando o projeto Eduzz e prototipando a aplicação:
+### - ✅ Mentoria 03: Projeto Eduzz: Explicando o projeto Eduzz e prototipando a aplicação:
 Aprenda as melhores práticas na hora de criar o prototipo da sua aplicação.
 
 ### - ✅ Introdução ao ReactJS:
@@ -67,16 +67,16 @@ Você aprenderá conceitos avançados sobre a combinação de Redux com React e 
 ### - ✅ Práticas avançadas em projetos com ReactJS:
 Conclua o seu conhecimento de React JS com técnicas avançadas para desenvolver e otimizar o tempo dos projetos. Seja um desenvolvedor front-end de alta performance!
 
-### - ▪️▪️▪️ Introdução aos React Hooks:
+### - ✅ Introdução aos React Hooks:
 Organize sua lógica de componentes React com Hooks. Para isso, entenda esse conceito na prática e veja como ele pode ajudá-lo no reuso de suas implementações. Os Hooks nos permitem trabalhar de forma limpa e simples no React, nos dando ainda mais controle.
 
-### - ▪️▪️▪️ Criando aplicações móveis multiplataforma com React Native:
+### - ✅ Criando aplicações móveis multiplataforma com React Native:
 Aprenda React Native da introdução ao desenvolvimento de seu próprio projeto mobile híbrido final, e acelere mais a sua carreira de desenvolvedor front-end.
 
-### - ▪️▪️▪️ Desafios Básicos em JavaScript:
+### - ✅ Desafios Básicos em JavaScript:
 Nesse desafio de codificação você irá praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas e exercícios anteriores.
 
-### - ▪️▪️▪️ Criando um front-end totalmente componentizado na prática com ReactJS:
+### - ✅ Criando um front-end totalmente componentizado na prática com ReactJS:
 Agora é a sua hora! Crie uma solução com React que explore os conceitos apresentados nesse Desafio de Projetos. Para isso, você pode reproduzir o aplicação criada pelo expert ou, caso se sinta preparado, desenvolver algo do zero. Dica: você pode dar um "fork" no repositório disponibilizado pelo expert para organizar melhor as suas alterações e evoluções, mantendo uma referência direta ao código original.
 
 ### - ▪️▪️▪️ MySql - Trabalhando com as suas primeiras tabelas:
