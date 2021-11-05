@@ -49,22 +49,22 @@ Antes de seguir para os Desafios de Código, entenda melhor o que são eles, qua
 ### - ✅ Desafios iniciais em JavaScript:
 Nesse desafio de codificação você irá praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional com JavaScript.
 
-### - ▪️▪️▪️ Criando seu jogo de memória estilo Genius:
+### - ✅ Criando seu jogo de memória estilo Genius:
 Nesse projeto, o desafio será criar um jogo Gênesis utilizando apenas HTML, CSS e Javascript de forma introdutória, sendo o principal conceito, CSS Grid, manipulação de Array e Arrow Functions.
 
 ### - ▪️▪️▪️ Mentoria 03: Projeto Eduzz: Explicando o projeto Eduzz e prototipando a aplicação:
 Aprenda as melhores práticas na hora de criar o prototipo da sua aplicação.
 
-### - ▪️▪️▪️ Introdução ao ReactJS:
+### - ✅ Introdução ao ReactJS:
 Aprenda os conceitos sobre ReactJS, ferramenta usada para a criação de interfaces para os usuários.
 
-### - ▪️▪️▪️ Trabalhando com Componentes em React:
+### - ✅ Trabalhando com Componentes em React:
 Aprenda sobre a estrutura e ciclo de vida dos componentes React, uma das principais tecnologias de desenvolvimento Web da atualidade. Nesse contexto, a expert explora conceitos chave como o de Single Page Application (SPA), modularização e, principalmente, boas práticas relacionadas a componentes React.
 
-### - ▪️▪️▪️ Desenvolvimento de aplicações para internet com ReactJS:
+### - ✅ Desenvolvimento de aplicações para internet com ReactJS:
 Você aprenderá conceitos avançados sobre a combinação de Redux com React e sua aplicação.
 
-### - ▪️▪️▪️ Práticas avançadas em projetos com ReactJS:
+### - ✅ Práticas avançadas em projetos com ReactJS:
 Conclua o seu conhecimento de React JS com técnicas avançadas para desenvolver e otimizar o tempo dos projetos. Seja um desenvolvedor front-end de alta performance!
 
 ### - ▪️▪️▪️ Introdução aos React Hooks:
