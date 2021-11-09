@@ -79,16 +79,16 @@ Nesse desafio de codificação você irá praticar através do desenvolvimento d
 ### - ✅ Criando um front-end totalmente componentizado na prática com ReactJS:
 Agora é a sua hora! Crie uma solução com React que explore os conceitos apresentados nesse Desafio de Projetos. Para isso, você pode reproduzir o aplicação criada pelo expert ou, caso se sinta preparado, desenvolver algo do zero. Dica: você pode dar um "fork" no repositório disponibilizado pelo expert para organizar melhor as suas alterações e evoluções, mantendo uma referência direta ao código original.
 
-### - ▪️▪️▪️ MySql - Trabalhando com as suas primeiras tabelas:
+### - ✅ MySql - Trabalhando com as suas primeiras tabelas:
 Crie suas primeiras tabelas no ambiente MySQL e aprenda como gerenciar a relação entre elas.
 
-### - ▪️▪️▪️ Introdução ao MongoDB e Bancos de Dados NoSQL:
+### - ✅ Introdução ao MongoDB e Bancos de Dados NoSQL:
 Neste curso você terá uma introdução aos bancos NoSQL no qual iremos apresentar o que é um banco não relacional, os seus tipos, assim como realizar operações em cada um dos tipos. Por fim, você será apresentado ao MongoDB.
 
 ### - ▪️▪️▪️ Mentoria 05: Projeto Eduzz: Criando a base de dados para suportar a aplicação:
 Chegou a hora de você armazenar seus dados da sua aplicação de maneira segura.
 
-### - ▪️▪️▪️ Introdução ao Node.js com JavaScript:
+### - ✅ Introdução ao Node.js com JavaScript:
 Dê os seus primeiros passos com Node.js, conhecendo os conceitos e características dessa tecnologia com JavaScript. Além disso, aplique os temas abordados em um projeto prático, criando um servidor simples para recuperar informações de hardware, como o uso de memória RAM.
 
 ### - ▪️▪️▪️ Explorando o Estilo Arquitetural REST com Node.js:
