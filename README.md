@@ -85,13 +85,13 @@ Crie suas primeiras tabelas no ambiente MySQL e aprenda como gerenciar a relaç�
 ### - ✅ Introdução ao MongoDB e Bancos de Dados NoSQL:
 Neste curso você terá uma introdução aos bancos NoSQL no qual iremos apresentar o que é um banco não relacional, os seus tipos, assim como realizar operações em cada um dos tipos. Por fim, você será apresentado ao MongoDB.
 
-### - ▪️▪️▪️ Mentoria 05: Projeto Eduzz: Criando a base de dados para suportar a aplicação:
+### - ✅ Mentoria 05: Projeto Eduzz: Criando a base de dados para suportar a aplicação:
 Chegou a hora de você armazenar seus dados da sua aplicação de maneira segura.
 
 ### - ✅ Introdução ao Node.js com JavaScript:
 Dê os seus primeiros passos com Node.js, conhecendo os conceitos e características dessa tecnologia com JavaScript. Além disso, aplique os temas abordados em um projeto prático, criando um servidor simples para recuperar informações de hardware, como o uso de memória RAM.
 
-### - ▪️▪️▪️ Explorando o Estilo Arquitetural REST com Node.js:
+### - ✅ Explorando o Estilo Arquitetural REST com Node.js:
 Conheça o estilo arquitetural mais utilizado na atualidade e entenda todas as nuances do REST. Nesse contexto, explore na prática todo potencial semântico do protocolo HTTP com Node.js. Para isso, o expert utiliza a biblioteca Express para abstrair o gerenciamento de rotas.
 
 ### - ▪️▪️▪️ Node.js com Bancos de Dados Relacionais (SQL):
