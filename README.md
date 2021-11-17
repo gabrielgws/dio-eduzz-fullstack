@@ -109,10 +109,10 @@ Neste projeto desenvolva seu próprio encurtador de url a partir da construção
 ### - ✅ Mentoria 06: Projeto Eduzz: Desenvolvendo o back-end da aplicação e plugando o front-end:
 Entenda como construir todo o coração da sua aplicação, desde regras de negócios até a implementação de codigo.
 
-### - ▪️▪️▪️ Mentoria 07: Projeto Eduzz: Entendendo e utilizando serviços de mensageria:
+### - ✅ Mentoria 07: Projeto Eduzz: Entendendo e utilizando serviços de mensageria:
 Descubra o que são serviços de mensageria, quais os cenários de uso, e por que é um dos elementos essenciais para os devs hoje em dia.
 
-### - ▪️▪️▪️ Fundamentos de Arquitetura de Sistemas:
+### - ✅ Fundamentos de Arquitetura de Sistemas:
 Aprenda nesse curso sobre como funcionam as arquiteturas de softwares, seus conceitos, aplicações e desenvolvimento de operações.
 
 ### - ▪️▪️▪️ Introdução a orquestração de contêineres com Docker:
