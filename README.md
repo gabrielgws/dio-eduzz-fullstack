@@ -94,19 +94,19 @@ Dê os seus primeiros passos com Node.js, conhecendo os conceitos e característ
 ### - ✅ Explorando o Estilo Arquitetural REST com Node.js:
 Conheça o estilo arquitetural mais utilizado na atualidade e entenda todas as nuances do REST. Nesse contexto, explore na prática todo potencial semântico do protocolo HTTP com Node.js. Para isso, o expert utiliza a biblioteca Express para abstrair o gerenciamento de rotas.
 
-### - ▪️▪️▪️ Node.js com Bancos de Dados Relacionais (SQL):
+### - ✅ Node.js com Bancos de Dados Relacionais (SQL):
 Simplifique a complexidade de conexão com bancos de dados relacionais (SQL) usando Node.js. Para isso, algumas abstrações são apresentadas, aumentando ainda mais a nossa produtividade no desenvolvimento de APIs REST em Node.js.
 
-### - ▪️▪️▪️ Microsserviços e Integrações com Node.js:
+### - ✅ Microsserviços e Integrações com Node.js:
 Refine os seus conhecimentos sobre microsserviços, com foco no dimensionamento de domínios. Para isso, o expert cria uma integração entre APIs, com a intenção de explorar adequadamente os domínios e responsabilidades de cada uma delas.
 
-### - ▪️▪️▪️ Desafios Médios em JavaScript:
+### - ✅ Desafios Médios em JavaScript:
 Nesse desafio de codificação você irá praticar através do desenvolvimento de algoritmos os conceitos de pensamento computacional apresentados nas aulas e exercícios anteriores.
 
-### - ▪️▪️▪️ Construindo Encurtador de URL:
+### - ✅ Construindo Encurtador de URL:
 Neste projeto desenvolva seu próprio encurtador de url a partir da construção de uma API com NodeJS, Typescript e MongoDB para a base de dados.
 
-### - ▪️▪️▪️ Mentoria 06: Projeto Eduzz: Desenvolvendo o back-end da aplicação e plugando o front-end:
+### - ✅ Mentoria 06: Projeto Eduzz: Desenvolvendo o back-end da aplicação e plugando o front-end:
 Entenda como construir todo o coração da sua aplicação, desde regras de negócios até a implementação de codigo.
 
 ### - ▪️▪️▪️ Mentoria 07: Projeto Eduzz: Entendendo e utilizando serviços de mensageria:
