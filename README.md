@@ -121,8 +121,11 @@ Nesse curso aprenderemos sobre o Docker, um projeto OpenSource que facilita a cr
 ### - ✅ Introdução prática a computação em nuvem usando AWS:
 Potencialize suas soluções usando a Amazon Web Services (AWS), uma das plataformas de computação em nuvem mais relevantes do mercado. Nesse contexto, o expert explora os conceitos de API Gateway, Serverless e NoSQL na prática, por meio de serviços totalmente gerenciados na AWS.
 
-### - ▪️▪️▪️ Mentoria 08: Projeto Eduzz: Vislumbrando possibilidades de integração da aplicação com a nuvem:
+### - ✅ Mentoria 08: Projeto Eduzz: Vislumbrando possibilidades de integração da aplicação com a nuvem:
 Conheça as vantagens da computação em nuvem e por que você deveria estar pensando cada vez mais em cloud.
 
-### - ▪️▪️▪️ Mentoria 09: Como se preparar para processos seletivos na Eduzz:
+### - ✅ Mentoria 09: Como se preparar para processos seletivos na Eduzz:
 Tudo o que você precisa saber para se dar bem em uma entrevista no processo seletivo da Eduzz
+
+# Certificado 📄
+<img src="https://github.com/gabrielgws/dio-eduzz-fullstack/blob/main/Certificado%20dio-eduzz.jpg" alt="Certificado" />
